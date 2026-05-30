@@ -28,7 +28,7 @@ Library yang diperlukan:
 
 ## Wiring OLED I2C
 
-| OLED | Arduino Uno |
+| OLED | Arduino Nano |
 | ---- | ----------- |
 | VCC  | 5V          |
 | GND  | GND         |
