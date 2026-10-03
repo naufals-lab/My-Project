@@ -55,9 +55,7 @@ images/
 
 Lalu tampilkan di README:
 
-```markdown
-![Preview](LCD-OLED_I2C_SSD1306/Lyric-sudah-terbiasa-terjadi-tante/documentatation/Screenshot 2026-09-25 011807.png)
-```
+![Foto Smart Home](Proyek-A_Smart-Home/assets/foto-fisik.jpg)
 
 ## Source Code
 
