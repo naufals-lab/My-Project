@@ -56,7 +56,7 @@ images/
 Lalu tampilkan di README:
 
 ```markdown
-![Preview](images/preview.jpg)
+![Preview](LCD-OLED_I2C_SSD1306/Lyric-sudah-terbiasa-terjadi-tante/documentatation/Screenshot 2026-09-25 011807.png)
 ```
 
 ## Source Code
