@@ -55,7 +55,8 @@ images/
 
 Lalu tampilkan di README:
 
-![Foto Smart Home](LCD-OLED_I2C_SSD1306/Lyric-sudah-terbiasa-terjadi-tante/documentatation/Screenshot 2026-09-25 011807.png)
+![Foto Smart Home](documentatation/Screenshot 2026-09-25 011807.png).
+![Foto Smart Home](documentatation/Screenshot%202026-09-25%20011807.png).
 
 ## Source Code
 
@@ -78,3 +79,17 @@ Silakan gunakan, modifikasi, dan pelajari proyek ini untuk kebutuhan pembelajara
 TikTok: Naufal's Lab
 
 Terima kasih telah mencoba proyek ini.
+
+# 🎵 Project: OLED Lyric Displayer
+
+Proyek ini menggunakan layar **OLED SSD1306 dengan modul I2C** untuk menampilkan lirik lagu secara otomatis menggunakan Arduino.
+
+## 📸 Hasil Pengujian
+Berikut adalah dokumentasi tampilan layar OLED saat menjalankan program lirik lagu:
+
+![Tampilan Lirik OLED](documentatation/Screenshot%202026-09-25%20011807.png)
+
+## 🛠️ Komponen yang Digunakan
+* Arduino Uno / Nano
+* Modul LCD OLED I2C SSD1306 (0.96 inch)
+* Kabel Jumper
